@@ -43,6 +43,6 @@ Provides dynamic interactivity, such as:
 
 ## Preview
 
-For a visual preview of the site, visit [The Book Club](<insert link to your live site if available>).
+For a visual preview of the site, visit [The Book Club](<https://elinaad.github.io/Responsive_Club_Website/>).
 
-If you are interested in exploring the intricacies of the code, feel free to browse through the project’s [GitHub Repository](<insert link to your repository>).
+If you are interested in exploring the intricacies of the code, feel free to browse through the project’s [GitHub Repository](<https://github.com/ElinaAD/Responsive_Club_Websitex>).

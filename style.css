@@ -22,6 +22,7 @@ html {
 
   p{
     color: rgba(209, 189, 123, 0.8);
+    text-align: justify;
   }
 
 .scale-down img{
