@@ -1,6 +1,6 @@
-# Tree of Life Cosmetics - Interactive Website
+# Bookclub Website
 
-A flexbox-based, responsive, and interactive website designed for Tree of Life Cosmetics, showcasing the company's ethos, products, and offering a unique and aesthetic user experience. The site ensures seamless navigation and user interaction, adapting beautifully across various devices.
+A **Bookclub** website repository. This space provides both a general overview of the website and a detailed documentation on the accompanying CSS styles. The website is crafted to offer an enriching reading experience for book enthusiasts.
 
 ## Components
 
@@ -9,11 +9,17 @@ A flexbox-based, responsive, and interactive website designed for Tree of Life C
 
 ## Features
 
-- **Responsive Navigation Bar**: Quick links to various sections including ‘About Us’, ‘Products’, and ‘Follow Us’.
+- **Navigation Bar**: Contains sections like About Us, Events, Partners, and Contact Us.
+- **Welcome Banner**: A warm greeting for visitors.
+- **Join Button**: An invitation for potential members.
+- **Event Section**: Details about upcoming events, such as Apple Picking, Loch Lomond Hike, and Baking Lesson.
+- **Partner Section**: Introduction to partners like Orchard Valley Farm, Garland Winery, and The Book Café.
+- **Book of the Month**: Showcases the featured book.
+- **Reading Box**: Offers a reading list for further inspiration.
+- **Footer**: Displays our contact email.
 - **Contact Page**: Detailed with a form and provides contact details including address, phone, email, and Instagram link.
-- **Interactive Elements**: Dynamic dropdowns and hover effects for more information in events and partner sections.
 - **User-Friendly Form**: Interactive and user-friendly form on the contact page, allowing for user inquiries and feedback.
-- **Optimal Styling**: Styling optimized for readability and user interaction.
+- **Optimal Styling**: Styling optimized for readability and user interaction accross divices. 
 
 ## Technologies Used
 
@@ -22,13 +28,6 @@ A flexbox-based, responsive, and interactive website designed for Tree of Life C
 - Flexbox
 - JavaScript
 
-## Site Structure
-
-### Navigation Section
-Includes the company's logo and main navigation bar, linking to various sections, ensuring seamless navigation.
-
-### Contact Form Page
-Features a detailed contact form for user inquiries and feedback, accompanied by essential contact information and a link to the company’s Instagram page.
 
 ## JavaScript Functionality
 Provides dynamic interactivity, such as:
@@ -44,6 +43,6 @@ Provides dynamic interactivity, such as:
 
 ## Preview
 
-For a visual preview of the site, visit [Tree of Life Cosmetics](<insert link to your live site if available>).
+For a visual preview of the site, visit [The Book Club](<insert link to your live site if available>).
 
 If you are interested in exploring the intricacies of the code, feel free to browse through the project’s [GitHub Repository](<insert link to your repository>).
